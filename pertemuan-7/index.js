@@ -68,9 +68,7 @@
 // console.log(makanan);
 
 // //9. slice()
-// let sayuran = makanan.slice(3, 6);
-// let bijian = makanan.slice(6);
-// console.log(sayuran);
-// console.log(bijian);
-// index.js
-// Displaying index.js.
+let sayuran = makanan.slice(3, 6);
+let bijian = makanan.slice(6);
+console.log(sayuran);
+console.log(bijian);
